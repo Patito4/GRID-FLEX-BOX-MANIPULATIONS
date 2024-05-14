@@ -1,0 +1,32 @@
+.flex {
+    display: flex;
+}
+.flex-direction-c {
+    flex-direction: column;
+}
+.justify-content-sb {
+    justify-content: space-between;
+}
+.justify-content-c {
+    justify-content: center;
+}
+.center {
+    display: grid;
+    place-items: center;
+}
+
+.mag-left {
+    margin-left: 25%;
+}
+
+.justify-conten-ed {
+    justify-content: end;
+}
+
+.justify-conten-lft {
+    justify-content: left;
+}
+
+.margin {
+    margin: 1rem;
+}
